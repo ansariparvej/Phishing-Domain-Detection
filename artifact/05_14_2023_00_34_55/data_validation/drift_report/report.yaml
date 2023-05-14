@@ -1,0 +1,201 @@
+asn_ip:
+  drift_status: false
+  p_value: 0.30124567092199706
+directory_length:
+  drift_status: false
+  p_value: 0.5015567524417527
+domain_length:
+  drift_status: false
+  p_value: 0.9019443367613565
+domain_spf:
+  drift_status: false
+  p_value: 0.9999999999663545
+file_length:
+  drift_status: false
+  p_value: 0.9160470016610439
+length_url:
+  drift_status: false
+  p_value: 0.7285808308846085
+params_length:
+  drift_status: false
+  p_value: 0.9999531550346735
+phishing:
+  drift_status: false
+  p_value: 0.9999999999999988
+qty_and_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_and_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_and_params:
+  drift_status: false
+  p_value: 0.9999812774480049
+qty_asterisk_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_asterisk_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_at_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_at_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_comma_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_comma_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_dollar_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_dollar_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_dollar_params:
+  drift_status: false
+  p_value: 0.9999812774480049
+qty_dot_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_dot_domain:
+  drift_status: false
+  p_value: 0.9993631515579272
+qty_dot_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_dot_params:
+  drift_status: false
+  p_value: 0.9999812774480049
+qty_dot_url:
+  drift_status: false
+  p_value: 0.8996718205841546
+qty_equal_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_equal_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_equal_params:
+  drift_status: false
+  p_value: 0.9999812774480049
+qty_exclamation_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_exclamation_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_hashtag_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_hashtag_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_hyphen_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_hyphen_domain:
+  drift_status: false
+  p_value: 1.0
+qty_hyphen_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_hyphen_url:
+  drift_status: false
+  p_value: 1.0
+qty_ip_resolved:
+  drift_status: false
+  p_value: 0.998048992708475
+qty_mx_servers:
+  drift_status: false
+  p_value: 0.9947172245797012
+qty_nameservers:
+  drift_status: false
+  p_value: 0.978378998589761
+qty_percent_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_percent_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_plus_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_plus_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_plus_params:
+  drift_status: false
+  p_value: 0.9999812774480049
+qty_questionmark_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_questionmark_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_redirects:
+  drift_status: false
+  p_value: 1.0
+qty_slash_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_slash_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_slash_url:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_space_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_space_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_tilde_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_tilde_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_tilde_params:
+  drift_status: false
+  p_value: 0.9999812774480049
+qty_tld_url:
+  drift_status: false
+  p_value: 1.0
+qty_underline_directory:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_underline_file:
+  drift_status: false
+  p_value: 0.9160470016610439
+qty_underline_params:
+  drift_status: false
+  p_value: 0.9999812774480049
+qty_underline_url:
+  drift_status: false
+  p_value: 0.999999999999554
+qty_vowels_domain:
+  drift_status: false
+  p_value: 0.9884465236947272
+time_domain_activation:
+  drift_status: false
+  p_value: 0.4039596141487739
+time_domain_expiration:
+  drift_status: false
+  p_value: 0.5389279800915245
+time_response:
+  drift_status: false
+  p_value: 0.46183837405929473
+tls_ssl_certificate:
+  drift_status: false
+  p_value: 0.7991299397972633
+ttl_hostname:
+  drift_status: false
+  p_value: 0.44166390987269344
+url_shortened:
+  drift_status: false
+  p_value: 1.0

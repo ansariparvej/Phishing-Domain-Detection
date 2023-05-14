@@ -1,0 +1,14 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "ansari369/phishing_domain_detection_using_ml",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": 8501,
+      "HostPort": 8501
+    }
+  ]
+}
+

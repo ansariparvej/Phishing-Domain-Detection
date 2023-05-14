@@ -1,0 +1,136 @@
+columns:
+  - qty_dot_url: int
+  - qty_hyphen_url: int
+  - qty_underline_url: int
+  - qty_slash_url: int
+  - qty_tld_url: int
+  - length_url: int
+  - qty_dot_domain: int
+  - qty_hyphen_domain: int
+  - qty_vowels_domain: int
+  - domain_length: int
+  - qty_dot_directory: int
+  - qty_hyphen_directory: int
+  - qty_underline_directory: int
+  - qty_slash_directory: int
+  - qty_questionmark_directory: int
+  - qty_equal_directory: int
+  - qty_at_directory: int
+  - qty_and_directory: int
+  - qty_exclamation_directory: int
+  - qty_space_directory: int
+  - qty_tilde_directory: int
+  - qty_comma_directory: int
+  - qty_plus_directory: int
+  - qty_asterisk_directory: int
+  - qty_hashtag_directory: int
+  - qty_dollar_directory: int
+  - qty_percent_directory: int
+  - directory_length: int
+  - qty_dot_file: int
+  - qty_hyphen_file: int
+  - qty_underline_file: int
+  - qty_slash_file: int
+  - qty_questionmark_file: int
+  - qty_equal_file: int
+  - qty_at_file: int
+  - qty_and_file: int
+  - qty_exclamation_file: int
+  - qty_space_file: int
+  - qty_tilde_file: int
+  - qty_comma_file: int
+  - qty_plus_file: int
+  - qty_asterisk_file: int
+  - qty_hashtag_file: int
+  - qty_dollar_file: int
+  - qty_percent_file: int
+  - file_length: int
+  - qty_dot_params: int
+  - qty_underline_params: int
+  - qty_equal_params: int
+  - qty_and_params: int
+  - qty_tilde_params: int
+  - qty_plus_params: int
+  - qty_dollar_params: int
+  - params_length: int
+  - time_response: int
+  - domain_spf: int
+  - asn_ip: int
+  - time_domain_activation: int
+  - time_domain_expiration: int
+  - qty_ip_resolved: int
+  - qty_nameservers: int
+  - qty_mx_servers: int
+  - ttl_hostname: int
+  - tls_ssl_certificate: int
+  - qty_redirects: int
+  - url_shortened: int
+  - phishing: int
+numerical_columns:
+  - qty_dot_url
+  - qty_hyphen_url
+  - qty_underline_url
+  - qty_slash_url
+  - qty_tld_url
+  - length_url
+  - qty_dot_domain
+  - qty_hyphen_domain
+  - qty_vowels_domain
+  - domain_length
+  - qty_dot_directory
+  - qty_hyphen_directory
+  - qty_underline_directory
+  - qty_slash_directory
+  - qty_questionmark_directory
+  - qty_equal_directory
+  - qty_at_directory
+  - qty_and_directory
+  - qty_exclamation_directory
+  - qty_space_directory
+  - qty_tilde_directory
+  - qty_comma_directory
+  - qty_plus_directory
+  - qty_asterisk_directory
+  - qty_hashtag_directory
+  - qty_dollar_directory
+  - qty_percent_directory
+  - directory_length
+  - qty_dot_file
+  - qty_hyphen_file
+  - qty_underline_file
+  - qty_slash_file
+  - qty_questionmark_file
+  - qty_equal_file
+  - qty_at_file
+  - qty_and_file
+  - qty_exclamation_file
+  - qty_space_file
+  - qty_tilde_file
+  - qty_comma_file
+  - qty_plus_file
+  - qty_asterisk_file
+  - qty_hashtag_file
+  - qty_dollar_file
+  - qty_percent_file
+  - file_length
+  - qty_dot_params
+  - qty_underline_params
+  - qty_equal_params
+  - qty_and_params
+  - qty_tilde_params
+  - qty_plus_params
+  - qty_dollar_params
+  - params_length
+  - time_response
+  - domain_spf
+  - asn_ip
+  - time_domain_activation
+  - time_domain_expiration
+  - qty_ip_resolved
+  - qty_nameservers
+  - qty_mx_servers
+  - ttl_hostname
+  - tls_ssl_certificate
+  - qty_redirects
+  - url_shortened
+  - phishing
