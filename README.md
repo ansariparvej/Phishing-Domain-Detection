@@ -100,4 +100,4 @@ http://localhost:8501
 
 ## For Application Deployment, REFER: >> Deployment_Steps.pdf file.
 
-
+AWS Link: http://phishingdomaindetection-env-1.eba-baaipcsp.ap-south-1.elasticbeanstalk.com/
